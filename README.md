@@ -10,6 +10,7 @@
 4.入门利用深度学习进行故障诊断的学术研究
 
 说明：
+
 1.专栏所涉及代码会全部公开在本人的github上，欢迎交流以及star。
 https://github.com/boating-in-autumn-rain?tab=repositories
 
