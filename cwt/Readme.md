@@ -11,6 +11,6 @@ B站：秋雨行舟
 
 
 1.运行时注意事项：对于pywt库的安装，应使用 pip install PyWavelets来完成。  
-2.需要先运行preprocess文件，在train、valid、test文件夹生成相应的连续小波变换的图片后，再运行cwt_cnn进行分类实验  
+2.需要先运行sign_cwt文件，在train、valid、test文件夹生成相应的连续小波变换的图片后，再运行cwt_cnn进行分类实验  
 3.具体详细步骤，可以在B站搜索《秋雨行舟》进行学习  
 
