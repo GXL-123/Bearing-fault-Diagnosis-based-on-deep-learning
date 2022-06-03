@@ -22,7 +22,7 @@ x_train, y_train, x_valid, y_valid, x_test, y_test = preprocess.prepro(
     rate=[0.6, 0.2, 0.2],
     enc=False, enc_step=28)
 
-for i in range(52, len(x_train)):
+for i in range(0, len(x_train)):
     N = 784
     fs = 12000
     t = np.linspace(0, 784 / fs, N, endpoint=False)
